@@ -44,3 +44,10 @@ This project is an automation testing suite designed for [web applications / mob
 - Make your changes.
 - Commit and push to your fork.
 - Create a pull request on the main repository.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+Maintainer: Chetan Sharma
+GitHub: https://github.com/chetansharma91
