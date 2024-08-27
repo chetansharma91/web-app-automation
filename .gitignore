@@ -1,0 +1,31 @@
+# Logs
+logs/
+*.log
+
+# Dependency directories
+node_modules/
+target/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Maven and Gradle
+*.class
+*.jar
+*.war
+
+# Python files
+__pycache__/
+*.pyc
+
+# Test reports
+reports/
+
+# Environment files
+.env
