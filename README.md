@@ -15,7 +15,7 @@ This project is an automation testing suite designed for [web applications / mob
 ## Prerequisites
 - Java 11 or higher (for Java-based projects)
 - Node.js and npm (for Node.js-based projects)
-- Selenium WebDriver, Maven, TestNG, Cucumber, 
+- Selenium WebDriver, Maven, TestNG, Cucumber
 
 ## Installation
 1. Clone the repository:
